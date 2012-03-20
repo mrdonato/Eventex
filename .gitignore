@@ -1,0 +1,12 @@
+bin
+build
+include
+lib
+local
+Scripts
+.Python
+*.pyc
+.example
+.bk*
+.old
+.txt2tags
