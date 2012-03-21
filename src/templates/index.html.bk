@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EventeX</title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Language" content="pt-br" />
+        <meta name="keywords" content="welcometothedjango, Django,heroku, henrique bastos" />
+        <meta name="description" content="curso welcometothedjango sobre django e desenvolvimento ágil" />
+        <link type="text/css" href="{{ STATIC_URL }}css/layout.css" rel="stylesheet">
+    </head>
+<body>
+    <div id="page" charset="utf-8">
+        <div id="header">
+            <center>
+                <img src="{{ STATIC_URL }}img/logo.png" alt="EventeX">
+            </center>
+        </div>
+        <div id="content">
+            <h1>Bem-vindo ao EventeX!</h1>
+            <hr>
+            <p>O evento mais sensacional do ano depois do Dev in Rio!</p>
+            <p>Você não pode perder esta oportunidade!</p>
+            <p><strong>Abertura das inscrições em 18/03/2012.</strong></p>
+            <p>Para dúvidas e mais informações entre em contato com <a href="mailto:eventex@eventex.com.br">eventex@eventex.com.br</a></p>
+        </div>
+        <div id="footer">
+            <p>© 2010. <a rel="license" href="http://eventex-donato.herokuapp.com/">EventeX</a>, some rights reserved. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ STATIC_URL }}img/80x15.png"></a><a href="http://www.djangoproject.com/" id="django"><img src="{{ STATIC_URL }}img/djangosite80x15.gif" border="0" alt="A Django site." title="A Django site."></a></p>
+        </div>
+    </div>
+</body></html>

@@ -1,0 +1,12 @@
+Diogo Damiani Ferreira: https://github.com/diogodamiani
+Diogo Damiani Ferreira: http://eventex-ddf.herokuapp.com/
+
+http://www.slideshare.net/demetriusnunes/desenvolvimento-gil-de-software-com-qualidade-intrnseca
+
+http://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software
+
+http://juliocsm.wordpress.com/2011/10/26/instalando-o-django-debug-toolbar/
+
+http://elcio.com.br/configurando-o-encoding-padrao-no-python/
+
+http://elcio.com.br/dica-de-python-ipython/

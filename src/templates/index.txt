@@ -1,0 +1,11 @@
+Eventex
+
+
+%! Target   : html
+%! Encoding : UTF-8
+%! Options  : --toc --enum-title
+
+O evento mais sensacional do ano depois do Dev in Rio!
+Você não pode perder esta oportunidade!
+Abertura das inscrições em 18/03/2012.
+Para dúvidas e mais informações entre em contato com eventex@eventex.com.br

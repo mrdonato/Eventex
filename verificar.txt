@@ -1,0 +1,8 @@
+coreset
+thanck
+bulk update
+bulk delete
+landi page
+cdn
+match inscricao
+tupla

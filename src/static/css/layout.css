@@ -1,0 +1,20 @@
+body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #9FCD9F;
+}
+
+#content {
+    padding: 20px;
+    background-color: #D1EBD1;
+    border-radius: 25px;
+}
+
+hr {
+    background-color: #9FCD9F;
+    color: #FFD1D1;
+    height: 1px;
+    border: none;
+}
